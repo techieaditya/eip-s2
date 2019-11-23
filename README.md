@@ -88,7 +88,8 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
  [0.019637924702302554, 0.9943]
  
 # 3. Steps Taken
-I.Selecting appropriate filter size.
-Increased the dropout value.
-Set the bias value to false
-tinkered with scheduler learning rate, turns out what was provided was quite good.
+>
+1.Selecting appropriate filter size.
+2.Increased the dropout value.
+3.Set the bias value to false
+4.tinkered with scheduler learning rate, turns out what was provided was quite good.

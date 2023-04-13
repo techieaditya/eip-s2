@@ -1,5 +1,5 @@
 
-# 1. Epoch Logs
+# 1. Epoch Log
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
 
